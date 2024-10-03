@@ -8,6 +8,7 @@ I'm a teen who has just started his first year in college.
 - Coding
 - Reading books
 - Photography (Its my new hobby :) )
+- I kinda want to start a blog
 # 🌱 My Tech Stack ...
 -  Python
 -  C/C++
