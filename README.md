@@ -7,13 +7,14 @@ I'm a teen who has just started his first year in college.
 - Playing video games (mostly indie ones)
 - Coding
 - Reading books
-- Photography (Its my new hobby :) )
+- Photography
 - I kinda want to start a blog
 # 🌱 My Tech Stack ...
 -  Python
 -  C/C++
 -  HTML, CSS, JavaScript
--  Currently learning React
+-  Tailwind CSS
+-  React, NextJS
 
 I will probably update this readme later down the line...
 
