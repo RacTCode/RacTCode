@@ -1,23 +1,52 @@
-*Howdy!! 👋*
+# Howdy!! 👋
 
 It's me, @RacTCode!
 
-I'm a teen who has just started his first year in college.
-# 👀 I’m interested in ...
-- Playing video games (mostly indie ones)
-- Coding
-- Reading books
-- Photography
-- I kinda want to start a blog
+I'm a Computer Science student who enjoys coding, building things, and figuring out why they don't work.
+
+# 👀 I'm interested in ...
+
+* 💻 Coding & Software Development
+* 🧩 Data Structures & Algorithms
+* 🌐 Full-Stack Web Development
+* 🤖 AI & Machine Learning
+* 🎮 Video Games (mostly indie ones)
+* 📚 Reading
+* 📸 Photography
+
 # 🌱 My Tech Stack ...
--  Python
--  C/C++
--  HTML, CSS, JavaScript
--  Tailwind CSS
--  React, NextJS
 
-I will probably update this readme later down the line...
+### Languages
 
-probably...
+* JavaScript
+* SQL
+* C / C++
+* Python
 
-don't count on it
+### Frontend
+
+* React.js
+* HTML
+* CSS
+* Tailwind CSS
+
+### Backend
+
+* Node.js
+* Express.js
+
+### Databases
+
+* MongoDB
+* MySQL
+
+### Tools & Technologies
+
+* Git
+* GitHub
+* Postman
+* AWS
+* Vercel
+* Render
+* Prisma
+* Zod
